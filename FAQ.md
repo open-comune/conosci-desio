@@ -1,3 +1,5 @@
+[Home](README.md) / FAQ
+
 # FAQ
 
 FAQ sta per _Frequently Asked Questions_, ovvero _Domande poste frequentemente_.
