@@ -24,7 +24,7 @@ Al Sindaco, agli assessori e ai consiglieri comunali: *fatti* inerenti l'amminis
 
 Il contenuto è strutturato secondo un modello ibrido Wiki/Issue tracker. È un po' come se stessimo creando una Wikipedia di Desio, ovvero una serie di documenti collegati tra di loro.
 
-Le domande frequenti sono presenti nella pagina [FAQ](faq).
+Le domande frequenti sono presenti nella pagina [FAQ](FAQ).
 
 **Nota bene**: questo è uno strumento gratuito, gestito su basi di volontariato da parte di tutti gli utenti partecipanti. L'esperienza è sicuramente migliorabile e nulla vieta che in futuro questo progetto venga migrato verso una piattaforma ancora più semplice e potente. Consideriamolo come un importante esperimento.
 
