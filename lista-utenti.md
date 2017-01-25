@@ -12,7 +12,7 @@
 | Giovanni dario Borgonovo | Assessore | |
 | Jennifer Moro | Assessore | |
 | Stefano Bruno Guidotti | Assessore | |
-| Achille Taccagni | Consigliere | invitato |
+| Achille Taccagni | Consigliere | ✔︎ |
 | Alessio Alberti | Consigliere | |
 | Andrea Villa | Consigliere | invitato |
 | Angelo Russi | Consigliere | |
@@ -40,6 +40,7 @@
 
 | Nome completo | Ruolo | Nome utente |
 | ------------- | ----- | ----------- |
+| Achille Taccagni | Consigliere | @achitac |
 | Luca Pace | Consigliere | @lukitto |
 | Sara Montrasio | Consigliere | @saram0n |
 | Antonio Leanza | Attivista | @anlean |
