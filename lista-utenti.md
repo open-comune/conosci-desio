@@ -40,6 +40,8 @@
 
 | Nome completo | Ruolo | Nome utente |
 | ------------- | ----- | ----------- |
+| Luca Pace | Consigliere | @lukitto |
+| Sara Montrasio | Consigliere | @saram0n |
 | Maurizio De Magnis | Amministratore | @olistik |
 
 Se vuoi contribuire attivamente al progetto e far parte della lista degli utenti, spedisci un'e-mail a [root@olisti.co](mailto:root@olisti.co).
