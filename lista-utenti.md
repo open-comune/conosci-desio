@@ -27,7 +27,7 @@
 | Marco Beretta | Consigliere | invitato |
 | Marialuisa Ricchiuti | Consigliere | |
 | Mariangela Ravasi | Consigliere | |
-| Marta Sicurello | Consigliere | |
+| Marta Sicurello | Consigliere | invitata |
 | Massimo Zanello | Consigliere | |
 | Michele Vitale | Consigliere | |
 | Sara Montrasio | Consigliere | ✔︎ |
@@ -42,6 +42,7 @@
 | ------------- | ----- | ----------- |
 | Luca Pace | Consigliere | @lukitto |
 | Sara Montrasio | Consigliere | @saram0n |
+| Antonio Leanza | Attivista | @anlean |
 | Maurizio De Magnis | Amministratore | @olistik |
 
 Se vuoi contribuire attivamente al progetto e far parte della lista degli utenti, spedisci un'e-mail a [root@olisti.co](mailto:root@olisti.co).
