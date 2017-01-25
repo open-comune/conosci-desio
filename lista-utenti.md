@@ -23,14 +23,14 @@
 | Greta Lo Re | Consigliere | |
 | Jenny Arienti | Consigliere | |
 | Luca Ghezzi | Consigliere | |
-| Luca Pace | Consigliere | |
+| Luca Pace | Consigliere | ✔︎ |
 | Marco Beretta | Consigliere | |
 | Marialuisa Ricchiuti | Consigliere | |
 | Mariangela Ravasi | Consigliere | |
 | Marta Sicurello | Consigliere | |
 | Massimo Zanello | Consigliere | |
 | Michele Vitale | Consigliere | |
-| Sara Montrasio | Consigliere | |
+| Sara Montrasio | Consigliere | ✔︎ |
 | Sara Perego | Consigliere | |
 | Sergio Mariani | Consigliere | |
 | Simone Gargiulo | Consigliere | |
