@@ -8,23 +8,23 @@
 | Cristina Redi | Assessore | |
 | Emanuela Rocco | Assessore | |
 | Paola Buonvicino | Assessore | |
-| Giorgio Gerosa | Assessore | |
+| Giorgio Gerosa | Assessore | invitato |
 | Giovanni dario Borgonovo | Assessore | |
 | Jennifer Moro | Assessore | |
 | Stefano Bruno Guidotti | Assessore | |
-| Achille Taccagni | Consigliere | |
+| Achille Taccagni | Consigliere | invitato |
 | Alessio Alberti | Consigliere | |
-| Andrea Villa | Consigliere | |
+| Andrea Villa | Consigliere | invitato |
 | Angelo Russi | Consigliere | |
 | Annunziata Smiraglia | Consigliere | |
 | Daniele Mario Commatteo | Consigliere | |
 | Emanuela La Greca | Consigliere | |
-| Francesco Pasquali | Consigliere | |
+| Francesco Pasquali | Consigliere | invitato |
 | Greta Lo Re | Consigliere | |
-| Jenny Arienti | Consigliere | |
-| Luca Ghezzi | Consigliere | |
+| Jenny Arienti | Consigliere | invitata |
+| Luca Ghezzi | Consigliere | invitato |
 | Luca Pace | Consigliere | ✔︎ |
-| Marco Beretta | Consigliere | |
+| Marco Beretta | Consigliere | invitato |
 | Marialuisa Ricchiuti | Consigliere | |
 | Mariangela Ravasi | Consigliere | |
 | Marta Sicurello | Consigliere | |
@@ -33,8 +33,8 @@
 | Sara Montrasio | Consigliere | ✔︎ |
 | Sara Perego | Consigliere | |
 | Sergio Mariani | Consigliere | |
-| Simone Gargiulo | Consigliere | |
-| Stefano Ambrogio Sala | Consigliere | |
+| Simone Gargiulo | Consigliere | invitato |
+| Stefano Ambrogio Sala | Consigliere | invitato |
 
 ## Utenti attivi
 
