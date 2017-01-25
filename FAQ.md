@@ -20,9 +20,9 @@ Infine deve essere enormemente facilitata la collaborazione, perché non è sost
 
 ## A chi è rivolto?
 
-Ai cittadini: insieme è possibile far convergere gli sforzi ed evitare che importanti informazioni vengano perse. Molti dubbi spesso hanno già trovato risposte ed è quindi più facile trovarle se gli argomenti sono collegati e accessibili nello stesso posto.
+**Al Sindaco, agli assessori e ai consiglieri comunali**: *fatti* inerenti l'amministrazione possono essere aggiunti, complementati nel tempo e usati come riferimento in sede di retrospettive e pianificazioni.
 
-Al Sindaco, agli assessori e ai consiglieri comunali: *fatti* inerenti l'amministrazione possono essere aggiunti, complementati nel tempo e usati come riferimento in sede di retrospettive e pianificazioni.
+**Ai cittadini**: insieme è possibile far convergere gli sforzi ed evitare che importanti informazioni vengano perse. Molti dubbi spesso hanno già trovato risposte ed è quindi più facile trovarle se gli argomenti sono collegati e accessibili nello stesso posto.
 
 ## Come funziona?
 
