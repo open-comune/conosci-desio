@@ -22,7 +22,7 @@
 | Francesco Pasquali | Consigliere | invitato |
 | Greta Lo Re | Consigliere | |
 | Jenny Arienti | Consigliere | invitata |
-| Luca Ghezzi | Consigliere | invitato |
+| Luca Ghezzi | Consigliere | ✔︎ |
 | Luca Pace | Consigliere | ✔︎ |
 | Marco Beretta | Consigliere | invitato |
 | Marialuisa Ricchiuti | Consigliere | |
@@ -41,6 +41,7 @@
 | Nome completo | Ruolo | Nome utente |
 | ------------- | ----- | ----------- |
 | Achille Taccagni | Consigliere | @achitac |
+| Luca Ghezzi | Consigliere | @LucaGhezziLN |
 | Luca Pace | Consigliere | @lukitto |
 | Sara Montrasio | Consigliere | @saram0n |
 | Antonio Leanza | Attivista | @anlean |
