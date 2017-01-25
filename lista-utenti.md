@@ -9,7 +9,7 @@
 | Emanuela Rocco | Assessore | |
 | Paola Buonvicino | Assessore | |
 | Giorgio Gerosa | Assessore | invitato |
-| Giovanni dario Borgonovo | Assessore | |
+| Giovanni Dario Borgonovo | Assessore | |
 | Jennifer Moro | Assessore | |
 | Stefano Bruno Guidotti | Assessore | |
 | Achille Taccagni | Consigliere | ✔︎ |
