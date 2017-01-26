@@ -14,7 +14,7 @@
 | Stefano Bruno Guidotti | Assessore | |
 | Achille Taccagni | Consigliere | ✔︎ |
 | Alessio Alberti | Consigliere | |
-| Andrea Villa | Consigliere | invitato |
+| Andrea Villa | Consigliere | ✔︎ |
 | Angelo Russi | Consigliere | |
 | Annunziata Smiraglia | Consigliere | |
 | Daniele Mario Commatteo | Consigliere | |
@@ -41,6 +41,7 @@
 | Nome completo | Ruolo | Nome utente |
 | ------------- | ----- | ----------- |
 | Achille Taccagni | Consigliere | @achitac |
+| Andrea Villa | Consigliere | @villandrea013 |
 | Luca Ghezzi | Consigliere | @LucaGhezziLN |
 | Luca Pace | Consigliere | @lukitto |
 | Sara Montrasio | Consigliere | @saram0n |
