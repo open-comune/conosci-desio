@@ -40,13 +40,13 @@
 
 | Nome completo | Ruolo | Nome utente |
 | ------------- | ----- | ----------- |
-| Achille Taccagni | Consigliere | @achitac |
-| Andrea Villa | Consigliere | @villandrea013 |
-| Luca Ghezzi | Consigliere | @LucaGhezziLN |
-| Luca Pace | Consigliere | @lukitto |
-| Sara Montrasio | Consigliere | @saram0n |
-| Antonio Leanza | Attivista | @anlean |
-| Emiliano Ferrari | Attivista | @emilianoferrari1 |
-| Maurizio De Magnis | Attivista, Amministratore | @olistik |
+| Achille Taccagni | Consigliere | [@achitac](https://github.com/achitac) |
+| Andrea Villa | Consigliere | [@villandrea013](https://github.com/villandrea013) |
+| Luca Ghezzi | Consigliere | [@LucaGhezziLN](https://github.com/LucaGhezziLN) |
+| Luca Pace | Consigliere | [@lukitto](https://github.com/lukitto) |
+| Sara Montrasio | Consigliere | [@saram0n](https://github.com/saram0n) |
+| Antonio Leanza | Attivista | [@anlean](https://github.com/anlean) |
+| Emiliano Ferrari | Attivista | [@emilianoferrari1](https://github.com/emilianoferrari1) |
+| Maurizio De Magnis | Attivista, Amministratore | [@olistik](https://github.com/olistik) |
 
 Se vuoi contribuire attivamente al progetto e far parte della lista degli utenti, spedisci un'e-mail a [root@olisti.co](mailto:root@olisti.co).
