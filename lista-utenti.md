@@ -46,6 +46,7 @@
 | Luca Pace | Consigliere | @lukitto |
 | Sara Montrasio | Consigliere | @saram0n |
 | Antonio Leanza | Attivista | @anlean |
-| Maurizio De Magnis | Amministratore | @olistik |
+| Emiliano Ferrari | Attivista | @emilianoferrari1 |
+| Maurizio De Magnis | Attivista, Amministratore | @olistik |
 
 Se vuoi contribuire attivamente al progetto e far parte della lista degli utenti, spedisci un'e-mail a [root@olisti.co](mailto:root@olisti.co).
