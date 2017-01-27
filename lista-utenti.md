@@ -33,7 +33,7 @@
 | Sara Montrasio | Consigliere | ✔︎ |
 | Sara Perego | Consigliere | |
 | Sergio Mariani | Consigliere | |
-| Simone Gargiulo | Consigliere | invitato |
+| Simone Gargiulo | Consigliere | ✔︎ |
 | Stefano Ambrogio Sala | Consigliere | invitato |
 
 ## Utenti attivi
