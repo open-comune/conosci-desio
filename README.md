@@ -2,6 +2,8 @@
 
 Tutte le informazioni su Desio, scritte dai desiani.
 
+Questo progetto fa parte del contenitore [Open Desio](http://open.desio.org).
+
 ## Sperimentazione
 
 Nella prima fase di sperimentazione si vuole coinvolgere il maggior numero di membri della Giunta e del Consiglio Comunale.
