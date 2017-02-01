@@ -47,6 +47,7 @@
 | Sara Montrasio | Consigliere | [@saram0n](https://github.com/saram0n) |
 | Antonio Leanza | Attivista | [@anlean](https://github.com/anlean) |
 | Emiliano Ferrari | Attivista | [@emilianoferrari1](https://github.com/emilianoferrari1) |
+| _ | Attivista | [@lagiulia](https://github.com/lagiulia) |
 | Maurizio De Magnis | Attivista, Amministratore | [@olistik](https://github.com/olistik) |
 
 Se vuoi contribuire attivamente al progetto e far parte della lista degli utenti, spedisci un'e-mail a [root@olisti.co](mailto:root@olisti.co).
