@@ -26,35 +26,7 @@ Infine deve essere enormemente facilitata la collaborazione, perché non è sost
 
 ## Come funziona?
 
-Il contenuto è strutturato secondo un modello ibrido Wiki/Issue tracker. È un po' come se stessimo creando una Wikipedia di Desio, ovvero una serie di documenti collegati tra di loro.
-
-## Argomenti e Sezioni: cosa sono?
-
-### Argomenti
-
-Un _argomento_ è un contributo di una persona. È l'analogo Facebook del _post_.
-
-Tutti gli argomenti sono disponibili nella pagina [_Issues_](https://github.com/open-comune/conosci-desio/issues).
-
-Per creare un nuovo argomento: [crea una nuova _Issue_](https://github.com/open-comune/conosci-desio/issues/new).
-
-Le _sezioni_ sono contenitori di _argomenti_.
-
-### Sezioni
-
-Tutte le sezioni sono disponibili nel pagina [_Wiki_](https://github.com/open-comune/conosci-desio/wiki).
-
-Una nuova sezione risulta necessaria quando sono presenti uno o più argomenti e quindi risulta utile creare un contenitore che li elenchi tutti.
-
-Per creare una nuova sezione: [Aggiungi una nuova pagina della Wiki](https://github.com/open-comune/conosci-desio/wiki/_new) e aggiorna la lista delle sezioni presenti, [modificando la pagina iniziale della Wiki](https://github.com/open-comune/conosci-desio/wiki/Home/_edit).
-
-## Cosa avviene quando modifico una pagina?
-
-Ogni modifica, inserimento, cancellazione viene automaticamente tracciata, associandola al suo autore.
-
-## Chi può modificare i contenuti?
-
-La lista degli utenti abilitati è disponibile nella pagina [Lista utenti](lista-utenti.md).
+È un po' come se stessimo creando una Wikipedia di Desio, ovvero una serie di documenti collegati tra di loro.
 
 ## Come posso scrivere i contenuti?
 
