@@ -10,6 +10,10 @@
 
 Corti ha ipotizzato la rimozione delle rotaie entro fine 2016.
 
+## 2017-01-30: Creazione pagina Facebook del Comitato "BASTA ROTAIE - DESIO"
+
+[link](https://www.facebook.com/BastaRotaieDesio)
+
 ## 2017-02-04: Petizione del Comitato "BASTA ROTAIE - DESIO"
 
 Contenuto della petizione:
