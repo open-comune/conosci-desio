@@ -2,6 +2,14 @@
 
 (Costruzione del documento in corso)
 
+## 2016-02-09: Intervista al sindaco Roberto Corti
+
+[Fonte](https://www.mbnews.it/2016/02/desio-via-le-rotaie-del-tram-in-centro-il-sindaco-chiede-una-data-certa/)
+
+> “Sono molto soddisfatto dello sblocco del progetto e ho già preso contatti col responsabile della progettazione per mettere in calendario la rimozione delle vecchie rotaie che attraversano il centro cittadino e che tanti disagi hanno provocato sino a questo momento, che, nelle mie intenzioni, potrebbe realizzarsi per la fine del 2016” commenta Corti.
+
+Corti ha ipotizzato la rimozione delle rotaie entro fine 2016.
+
 ## 2017-02-04: Petizione del Comitato "BASTA ROTAIE - DESIO"
 
 Contenuto della petizione:
