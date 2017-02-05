@@ -2,6 +2,10 @@
 
 (Costruzione del documento in corso)
 
+## Fatti che necessitano di riferimenti
+
+1. La rimozione delle rotaie non dipende dal Comune di Desio.
+
 ## 2016-02-09: Intervista al sindaco Roberto Corti
 
 [Fonte](https://www.mbnews.it/2016/02/desio-via-le-rotaie-del-tram-in-centro-il-sindaco-chiede-una-data-certa/)
