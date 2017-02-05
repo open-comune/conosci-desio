@@ -37,6 +37,18 @@
 
 Corti ha ipotizzato la rimozione delle rotaie entro fine 2016.
 
+## 2016-09-18: Ritardi
+
+[Fonte](http://www.ilgiorno.it/sesto/cronaca/bresso-tranvia-ritardo-1.2519315)
+
+> Il progetto esecutivo sarà presentato solo a gennaio, si rischiano altri mesi di stop prima dell'avvio dei cantieri veri e propri
+
+> Ammonta ormai a 4 anni il ritardo che la Provincia di Milano prima e la Città metropolitana poi, hanno accumulato nell’avvio di questo progetto. Ed è di un **nuovo ritardo, almeno 4 mesi**, che si parla nell’ultima **relazione del Responsabile Unico di Procedimento**, in merito all’effettiva partenza del cantiere.
+
+> [..] a causa dei tanti ripensamenti e blocchi e delle enormi difformità riscontrate rispetto a quanto previsto in origine. Non traggano in inganno i lavori in corso che da agosto dividono in due la via Vittorio Veneto creando disagi agli automobilisti. Quelle opere non sono altro che un aperitivo al cantiere vero e proprio. Si tratta infatti dei primi lavori per l’eliminazione delle cosiddette «interferenze», ossia delle reti dei servizi che si trovano nel sottosuolo.
+
+> In ottobre era prevista la presentazione dell’ultima e decisiva versione del progetto esecutivo da parte della Cmc, l’impresa che ha vinto la gara d’appalto per l’esecuzione delle opere, ma tutto è stato rinviato a gennaio, perché vi sono ancora numerosissime incertezze e anomalie da risolvere all’interno del complicatissimo progetto. Ad oggi, **la partenza dei lavori è ipotizzabile solamente da aprile 2017**. Da quel momento, se tutto filerà liscio, dovranno decorrere almeno 28 mesi per poter vedere i nuovi tram in azione.
+
 ## 2017-01-30: Creazione pagina Facebook del Comitato "BASTA ROTAIE - DESIO"
 
 [link](https://www.facebook.com/BastaRotaieDesio)
