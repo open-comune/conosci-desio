@@ -4,7 +4,30 @@
 
 ## Fatti che necessitano di riferimenti
 
-1. La rimozione delle rotaie non dipende dal Comune di Desio.
+### 1. La rimozione delle rotaie non dipende dal Comune di Desio
+
+? riferimento ufficiale
+
+### 2. Città Metropolitana di Milano non ritiene urgente la rimozione delle rotaie
+
+> Gent.ma Sig.ra Montrasio,
+> come da Lei correttamente riportato, la rimozione degli elementi della sede dismessa della tranvia extraurbana Milano Desio è in capo all'Impresa che, propedeuticamente all'avvio dei lavori, è impegnata nel completamento della progettazione esecutiva.
+> Con riferimento alle rotaie a gola annegate nella sede stradale di Via Garibaldi e Corso Italia, la cessazione del servizio tranviario non ha sicuramente determinato maggiore "pericolo" per i cittadini rispetto al pluridecennale periodo in cui l'infrastruttura era regolarmente in esercizio.
+> La presenza di binari di tratte metrotranviarie dismesse è peraltro ampiamente diffusa nel Comune di Milano.
+> Non si ritiene sussista pertanto l'urgenza di dover procedere a modalità non canoniche per lo smantellamento della sede.
+> Auspicando di averLe fornito riscontro, si rimane a disposizione per eventuali ulteriori richieste di informazione.
+
+> Ing. Ettore Guglielmino
+> Direttore Settore Sviluppo Infrastrutture
+> Metrotranviarie ed Espropri
+> Area Infrastrutture e Mobilità
+> Città Metropolitana di Milano
+> Corso di Porta Vittoria, 27
+> 20122 Milano
+> Tel. 02 7740 3513
+> e.guglielmino@cittametropolitana.mi.it
+
+? Data
 
 ## 2016-02-09: Intervista al sindaco Roberto Corti
 
