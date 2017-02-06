@@ -1,4 +1,4 @@
-# Studio epistemiologico inceneritore
+# Studio epidemiologico inceneritore
 
 > documento in aggiornamento
 
