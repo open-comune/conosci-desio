@@ -6,6 +6,8 @@ Questo progetto fa parte del contenitore [Open Desio](http://open.desio.org).
 
 [Guarda tutti gli Argomenti](https://github.com/open-comune/conosci-desio/issues).
 
+[Guarda tutti i Documenti](https://github.com/open-comune/conosci-desio/blob/master/data/lista-documenti.md)
+
 Se vuoi partecipare:
 
 1. [Registrati su GitHub](https://github.com/join)
