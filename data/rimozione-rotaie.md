@@ -37,6 +37,10 @@
 
 Corti ha ipotizzato la rimozione delle rotaie entro fine 2016.
 
+## 2016-04-09: discussione Facebook
+
+[link](https://www.facebook.com/groups/823777737638221/permalink/1370761079606548/)
+
 ## 2016-09-18: Ritardi
 
 [Fonte](http://www.ilgiorno.it/sesto/cronaca/bresso-tranvia-ritardo-1.2519315)
