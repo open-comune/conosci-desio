@@ -1,6 +1,6 @@
 # Rimozione delle rotaie del tram
 
-(Costruzione del documento in corso)
+(Il processo di costruzione di questo documento è [qui](https://github.com/open-comune/conosci-desio/issues/6))
 
 ## Fatti che necessitano di riferimenti
 
