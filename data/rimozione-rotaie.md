@@ -29,7 +29,9 @@
 
 ? Data
 
-## 2015-04-22: Articolo "Binari del tram….Pisapia portali via!" di Alessandro Crisafulli, su Made in Desio
+## Cronologia
+
+### 2015-04-22: Articolo "Binari del tram….Pisapia portali via!" di Alessandro Crisafulli, su Made in Desio
 
 [Fonte](http://www.madeindesio.it/binari-del-tram-pisapia-portali-via/)
 
@@ -37,7 +39,7 @@
 
 > Come statuisce il Codice Civile (art. 822, comma 2) le “strade ferrate” appartengono allo Stato o all’ente territoriale e fanno parte del Demanio Pubblico. Anche l’articolo 824 ribadisce che “le strade ferrate” che appartengono alle province o ai comuni sono soggetti al regime del Demanio Pubblico. I binari in Desio, quindi, fanno parte dell’insieme dei beni inalienabili dell’Ente Locale sui quali Atm non ha quindi alcuna potestà o proprietà. La loro rimozione deve essere pertanto disposta dal Soggetto Pubblico proprietario.
 
-## 2016-02-09: Intervista al sindaco Roberto Corti
+### 2016-02-09: Intervista al sindaco Roberto Corti
 
 [Fonte](https://www.mbnews.it/2016/02/desio-via-le-rotaie-del-tram-in-centro-il-sindaco-chiede-una-data-certa/)
 
@@ -45,11 +47,11 @@
 
 Corti ha ipotizzato la rimozione delle rotaie entro fine 2016.
 
-## 2016-04-09: discussione Facebook
+### 2016-04-09: discussione Facebook
 
 [link](https://www.facebook.com/groups/823777737638221/permalink/1370761079606548/)
 
-## 2016-09-18: Ritardi
+### 2016-09-18: Ritardi
 
 [Fonte](http://www.ilgiorno.it/sesto/cronaca/bresso-tranvia-ritardo-1.2519315)
 
@@ -61,11 +63,11 @@ Corti ha ipotizzato la rimozione delle rotaie entro fine 2016.
 
 > In ottobre era prevista la presentazione dell’ultima e decisiva versione del progetto esecutivo da parte della Cmc, l’impresa che ha vinto la gara d’appalto per l’esecuzione delle opere, ma tutto è stato rinviato a gennaio, perché vi sono ancora numerosissime incertezze e anomalie da risolvere all’interno del complicatissimo progetto. Ad oggi, **la partenza dei lavori è ipotizzabile solamente da aprile 2017**. Da quel momento, se tutto filerà liscio, dovranno decorrere almeno 28 mesi per poter vedere i nuovi tram in azione.
 
-## 2017-01-30: Creazione pagina Facebook del Comitato "BASTA ROTAIE - DESIO"
+### 2017-01-30: Creazione pagina Facebook del Comitato "BASTA ROTAIE - DESIO"
 
 [link](https://www.facebook.com/BastaRotaieDesio)
 
-## 2017-02-04: Petizione del Comitato "BASTA ROTAIE - DESIO"
+### 2017-02-04: Petizione del Comitato "BASTA ROTAIE - DESIO"
 
 Contenuto della petizione:
 
