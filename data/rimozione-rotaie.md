@@ -29,6 +29,14 @@
 
 ? Data
 
+## 2015-04-22: Articolo "Binari del tram….Pisapia portali via!" di Alessandro Crisafulli, su Made in Desio
+
+[Fonte](http://www.madeindesio.it/binari-del-tram-pisapia-portali-via/)
+
+> Spiace dover ribadire nuovamente quanto l’azienda ha già comunicato da diversi anni: la linea tranviaria Milano-Desio è stata riconsegnata nel 2012 al Comune di Milano e quindi non è più in carico ad Atm. Viene indicata impropriamente Atm come responsabile delle rotaie dismesse nel comune di Desio, quando non ha invece alcun potere né obbligo circa la rimozione dei binari.
+
+> Come statuisce il Codice Civile (art. 822, comma 2) le “strade ferrate” appartengono allo Stato o all’ente territoriale e fanno parte del Demanio Pubblico. Anche l’articolo 824 ribadisce che “le strade ferrate” che appartengono alle province o ai comuni sono soggetti al regime del Demanio Pubblico. I binari in Desio, quindi, fanno parte dell’insieme dei beni inalienabili dell’Ente Locale sui quali Atm non ha quindi alcuna potestà o proprietà. La loro rimozione deve essere pertanto disposta dal Soggetto Pubblico proprietario.
+
 ## 2016-02-09: Intervista al sindaco Roberto Corti
 
 [Fonte](https://www.mbnews.it/2016/02/desio-via-le-rotaie-del-tram-in-centro-il-sindaco-chiede-una-data-certa/)
