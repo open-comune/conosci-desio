@@ -1,4 +1,4 @@
-# PGTU
+# PGTU: Piano Generale del Traffico Urbano
 
 Documento in costruzione, partecipa [qui](https://github.com/open-comune/conosci-desio/issues/9).
 
