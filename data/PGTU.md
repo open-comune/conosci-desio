@@ -69,5 +69,4 @@ Osservazioni sul PGTU da parte del Comitato di Quartiere (CdQ) San Giovanni.
 
 > ci sarà una Commissione Ambiente proprio sull'attuazione del PGTU entro fine febbraio, con la probabile presenza di esponenti del Centro Studi PIM, a cui è stato dato mandato di elaborare uno Studio per l'attuazione del PGTU che è una priorità dell'Amministrazione Comunale. Per questo ci siamo già mossi. Chiunque fosse interessato, oltre ovviamente ai membri della Commissione stessa, potrà partecipare come uditore. Sarà mia cura, in qualità di Presidente, diffondere data, orario e sede della Commissione.
 
-- autore: [Francesco Pasquali](https://www.facebook.com/francesco.pasquali.7)
-- [fonte](https://www.facebook.com/groups/823777737638221/permalink/1714573675225285/?comment_id=1714649241884395&comment_tracking=%7B%22tn%22%3A%22R9%22%7D)
+- autore: [Francesco Pasquali](/data/persone/francesco-pasquali.md)
