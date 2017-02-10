@@ -6,6 +6,8 @@ Documento in costruzione, partecipa [qui](https://github.com/open-comune/conosci
 
 [fonte](http://www.comune.desio.mb.it/servizi/menu/dinamica.aspx?idArea=16625&idCat=31314&ID=31314&TipoElemento=categoria)
 
+Gestito dalla [Commissione Ambiente, Infrastrutture, Mobilità](/data/commissioni-consiliari/ambiente-infrastrutture-mobilita.md).
+
 ### Cos'è il Piano Generale del Traffico Urbano
 
 Il Piano Generale del Traffico Urbano (PGTU) è uno strumento previsto dall'art. 36 del Codice della strada, finalizzato ad ottenere il miglioramento delle condizioni di circolazione e della sicurezza stradale, la riduzione degli inquinamenti acustico ed atmosferico ed il risparmio energetico, in accordo con gli strumenti urbanistici vigenti e con i piani di trasporto e nel rispetto dei valori ambientali, stabilendo le priorità e i tempi di attuazione degli interventi.
@@ -44,21 +46,6 @@ Il Piano Generale del Traffico Urbano persegue i seguenti obiettivi di carattere
 
 - [2016-11-29: Quota associativa 2017 per il Centro Studi PIM](https://github.com/open-comune/conosci-desio/blob/master/data/PGTU.md#2016-11-29-quota-associativa-2017-per-il-centro-studi-pim)
 - [2016-12-14: Ampliamento dell'attività 2017 per il Centro Studi PIM](https://github.com/open-comune/conosci-desio/blob/master/data/PGTU.md#2016-12-14-ampliamento-dellattività-2017-per-il-centro-studi-pim)
-
-## Commissione Ambiente, Infrastrutture, Mobilità
-
-### Membri Commissione Commissione Ambiente, Infrastrutture, Mobilità 2016-2021
-
-| Nome completo | Ruolo |
-| ------------- | ----- |
-| [Francesco Pasquali](/data/persone/francesco-pasquali.md) | Presidente |
-| Sara Montrasio | Vice Presidente |
-| Nunzia Smiraglia | |
-| Luisa Ricchiuti | |
-| Alessio Alberti | |
-| Emanuela La Greca | |
-| Andrea Villa | |
-| Luca Ghezzi | |
 
 ## Cronologia
 
