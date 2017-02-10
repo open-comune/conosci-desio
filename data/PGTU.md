@@ -38,6 +38,13 @@ Il Piano Generale del Traffico Urbano persegue i seguenti obiettivi di carattere
 - riduzione dell’incidentalità attraverso interventi puntuali sulla rete stradale;
 - riduzione della pressione del traffico mediante specifici interventi su itinerari da assoggettare a interventi di riqualificazione per quanto riguarda la geometria del tracciato, le politiche della sosta, l’appartenenza a isole ambientali, etc.
 
+## Centro Studi PIM
+
+### Contributi economici
+
+- 2016-11-29: Quota associativa 2017 per il Centro Studi PIM
+- 2016-12-14: Ampliamento dell'attività 2017 per il Centro Studi PIM
+
 ## Commissione PGTU
 
 ### Membri Commissione PGTU 2016-2021
@@ -64,6 +71,18 @@ Osservazioni sul PGTU da parte del Comitato di Quartiere (CdQ) San Giovanni.
 ### 2016-03: Informatore Comunale
 
 ![16665329_10209476538362615_199806067481028949_o](https://cloud.githubusercontent.com/assets/21038/22793164/54e7a20a-eeef-11e6-9f6d-75151e9d3924.jpg)
+
+### 2016-11-29: Quota associativa 2017 per il Centro Studi PIM
+
+- importo: € 20.000,00
+- descrizione: Pianificazione strategica per la mobilità dolce e degli interventi del PGTU
+- Fonte: [Delibera di Giunta n. 00236/2016](http://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti?p_p_id=jcitygovalbopubblicazioni_WAR_jcitygovalbiportlet&p_p_lifecycle=2&p_p_state=normal&p_p_mode=view&p_p_resource_id=downloadAllegato&p_p_cacheability=cacheLevelPage&p_p_col_id=column-1&p_p_col_count=1&_jcitygovalbopubblicazioni_WAR_jcitygovalbiportlet_id=1398060148&_jcitygovalbopubblicazioni_WAR_jcitygovalbiportlet_action=mostraDettaglio&_jcitygovalbopubblicazioni_WAR_jcitygovalbiportlet_fromAction=recuperaDettaglio)
+
+### 2016-12-14: Ampliamento dell'attività 2017 per il Centro Studi PIM
+
+- importo: € 20.000,00
+- descrizione: AMPLIAMENTO DELL’ATTIVITÀ ISTITUZIONALE DEL CENTRO STUDI PIM
+- Fonte: [Determinazione n. 00918/2016](http://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti?p_p_id=jcitygovalbopubblicazioni_WAR_jcitygovalbiportlet&p_p_lifecycle=2&p_p_state=normal&p_p_mode=view&p_p_resource_id=downloadAllegato&p_p_cacheability=cacheLevelPage&p_p_col_id=column-1&p_p_col_count=1&_jcitygovalbopubblicazioni_WAR_jcitygovalbiportlet_id=1400198360&_jcitygovalbopubblicazioni_WAR_jcitygovalbiportlet_action=mostraDettaglio&_jcitygovalbopubblicazioni_WAR_jcitygovalbiportlet_fromAction=recuperaDettaglio)
 
 ### 2017-02-09: aggiornamento
 
