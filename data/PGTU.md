@@ -47,7 +47,7 @@ Il Piano Generale del Traffico Urbano persegue i seguenti obiettivi di carattere
 
 ## Commissione Ambiente, Infrastrutture, Mobilità
 
-### Membri Commissione PGTU 2016-2021
+### Membri Commissione Commissione Ambiente, Infrastrutture, Mobilità 2016-2021
 
 | Nome completo | Ruolo |
 | ------------- | ----- |
