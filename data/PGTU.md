@@ -45,7 +45,7 @@ Il Piano Generale del Traffico Urbano persegue i seguenti obiettivi di carattere
 - [2016-11-29: Quota associativa 2017 per il Centro Studi PIM](https://github.com/open-comune/conosci-desio/blob/master/data/PGTU.md#2016-11-29-quota-associativa-2017-per-il-centro-studi-pim)
 - [2016-12-14: Ampliamento dell'attività 2017 per il Centro Studi PIM](https://github.com/open-comune/conosci-desio/blob/master/data/PGTU.md#2016-12-14-ampliamento-dellattività-2017-per-il-centro-studi-pim)
 
-## Commissione PGTU
+## Commissione Ambiente, Infrastrutture, Mobilità
 
 ### Membri Commissione PGTU 2016-2021
 
