@@ -59,3 +59,5 @@ Roberto Corti
 | Simone Gargiulo | LISTA CIVICA PER DESIO SIMONE GARGIULO SINDACO |
 
 [Fonte](http://comune.desio.mb.it/servizi/menu/dinamica.aspx?idArea=8882&idCat=16560&ID=16560&TipoElemento=categoria)
+
+[Commissioni Consiliari](/data/commissioni-consiliari.md)
