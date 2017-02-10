@@ -1,5 +1,7 @@
 # Persona: Francesco Pasquali
 
+- [Profilo Facebook](https://www.facebook.com/francesco.pasquali.7)
+
 ## Ruoli
 
 ### Giunta 2016-2021
