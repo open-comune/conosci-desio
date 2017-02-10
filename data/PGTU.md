@@ -38,6 +38,21 @@ Il Piano Generale del Traffico Urbano persegue i seguenti obiettivi di carattere
 - riduzione dell’incidentalità attraverso interventi puntuali sulla rete stradale;
 - riduzione della pressione del traffico mediante specifici interventi su itinerari da assoggettare a interventi di riqualificazione per quanto riguarda la geometria del tracciato, le politiche della sosta, l’appartenenza a isole ambientali, etc.
 
+## Commissione PGTU
+
+### Membri Commissione PGTU 2016-2021
+
+| Nome completo | Ruolo |
+| ------------- | ----- |
+| [Francesco Pasquali](/data/persone/francesco-pasquali.md) | Presidente |
+| Sara Montrasio | Vice Presidente |
+| Nunzia Smiraglia | |
+| Luisa Ricchiuti | |
+| Alessio Alberti | |
+| Emanuela La Greca | |
+| Andrea Villa | |
+| Luca Ghezzi | |
+
 ## Cronologia
 
 ### 2014-10-01: Osservazioni del CdQ San Giovanni
