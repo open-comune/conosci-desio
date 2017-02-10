@@ -14,7 +14,7 @@
 | Daniele Mario Commatteo | Consigliere |
 | Emanuela La Greca | Consigliere |
 | Emanuela Rocco | Assessore |
-| [Francesco Pasquali](/data/persone/francesco-pasquali.md) | Consigliere, Ufficio di Presidenza, Presidente della [Commissione Ambiente, Infrastrutture, Mobilità](/data/PGTU.md#commissione-ambiente-infrastrutture-mobilità) |
+| [Francesco Pasquali](/data/persone/francesco-pasquali.md) | Consigliere, Ufficio di Presidenza, Presidente della [Commissione Ambiente, Infrastrutture, Mobilità](/data/commissioni-consiliari/ambiente-infrastrutture-mobilita.md) |
 | Giorgio Gerosa | Assessore |
 | Giovanni Dario Borgonovo | Assessore |
 | Greta Lo Re | Consigliere |
