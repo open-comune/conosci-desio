@@ -20,9 +20,9 @@
 | Greta Lo Re | Consigliere |
 | Jennifer Moro | Assessore |
 | Jenny Arienti | Consigliere | invitata |
-| Luca Ghezzi | Consigliere |
+| Luca Ghezzi | Consigliere, Vice-Presidente della [Commissione Bilancio e Società Partecipate](/data/commissioni-consiliari/bilancio-e-societa-partecipate.md) |
 | Luca Pace | Consigliere |
-| Marco Beretta | Consigliere, Capogruppo Consigliare (LISTA CIVICA DESIO VIVA) |
+| Marco Beretta | Consigliere, Capogruppo Consigliare (LISTA CIVICA DESIO VIVA), Presidente della [Commissione Bilancio e Società Partecipate](/data/commissioni-consiliari/bilancio-e-societa-partecipate.md) |
 | Marialuisa Ricchiuti | Consigliere |
 | Mariangela Ravasi | Consigliere |
 | Marta Sicurello | Consigliere | invitata |
@@ -31,7 +31,7 @@
 | Paola Buonvicino | Assessore |
 | Roberto Corti | Sindaco |
 | Rocco Cicchetti | Presidente del Consiglio Comunale, Ufficio di Presidenza |
-| Sara Montrasio | Consigliere, Capogruppo Consigliare (MOVIMENTO 5 STELLE) |
+| Sara Montrasio | Consigliere, Capogruppo Consigliare (MOVIMENTO 5 STELLE), Vice Presidente della [Commissione Ambiente, Infrastrutture, Mobilità](/data/commissioni-consiliari/ambiente-infrastrutture-mobilita.md#presidenza) |
 | Sara Perego | Consigliere |
 | Sergio Mariani | Consigliere, Capogruppo Consigliare (LISTA CIVICA LA SINISTRA PER DESIO) |
 | Simone Gargiulo | Consigliere, Capogruppo Consigliare (LISTA CIVICA PER DESIO SIMONE GARGIULO SINDACO) |
