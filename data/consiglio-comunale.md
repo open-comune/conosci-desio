@@ -14,7 +14,7 @@
 | Daniele Mario Commatteo | Consigliere |
 | Emanuela La Greca | Consigliere |
 | Emanuela Rocco | Assessore |
-| Francesco Pasquali | Consigliere, Ufficio di Presidenza |
+| [Francesco Pasquali](/data/persone/francesco-pasquali.md) | Consigliere, Ufficio di Presidenza |
 | Giorgio Gerosa | Assessore |
 | Giovanni Dario Borgonovo | Assessore |
 | Greta Lo Re | Consigliere |
