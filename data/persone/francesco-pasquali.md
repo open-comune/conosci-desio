@@ -8,6 +8,6 @@
 
 - Consigliere comunale
 - Ufficio di Presidenza
-- Presidente della [Commissione Ambiente, Infrastrutture, Mobilità](/data/PGTU.md#commissione-ambiente-infrastrutture-mobilità)
+- Presidente della [Commissione Ambiente, Infrastrutture, Mobilità](/data/commissioni-consiliari/ambiente-infrastrutture-mobilita.md)
 
 [Giunta 2016-2021](/data/consiglio-comunale.md#giunta-2016-2021)
