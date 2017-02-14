@@ -1,7 +1,7 @@
 # Lista documenti
 
 - [BiciStazione](https://github.com/open-comune/conosci-desio/blob/master/data/bici-stazione.md)
-- [Consiglio Comunale](https://github.com/open-comune/conosci-desio/blob/master/data/PGTU.md)
+- [Consiglio Comunale](https://github.com/open-comune/conosci-desio/blob/master/data/consiglio-comunale.md)
 - [Discariche abusive](https://github.com/open-comune/conosci-desio/blob/master/data/discariche-abusive.md)
 - [PGTU](https://github.com/open-comune/conosci-desio/blob/master/data/PGTU.md) (Piano Generale del Traffico Urbano)
 - [Potatura alberi](https://github.com/open-comune/conosci-desio/blob/master/data/potatura-alberi.md)
