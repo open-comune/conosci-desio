@@ -16,11 +16,11 @@ Su questo lotto abbiamo chiesto un finanziamento pari a circa **€ 80.000**, di
 
 Vorremmo implementare il sistema già presente, composto da 28 telecamere, aggiungendone altre 5 posizionate agli ingressi della città:
 
-- Via Maestri del Lavoro;
-- Via Milano;
-- (verso Nova) Via per Cesano;
-- Via Milano (Viale Europa);
-- Via Tagliabue (San Giorgio).
+- [Via Maestri del Lavoro](http://www.openstreetmap.org/?mlat=45.60504&mlon=9.22166#map=19/45.60504/9.22166);
+- [Via Milano](http://www.openstreetmap.org/?mlat=45.61642&mlon=9.20031#map=19/45.61642/9.20031);
+- [(verso Nova) Via per Cesano](http://www.openstreetmap.org/?mlat=45.62313&mlon=9.19848#map=19/45.62313/9.19848);
+- [Via Milano (Viale Europa)](http://www.openstreetmap.org/?mlat=45.63386&mlon=9.20056#map=17/45.63386/9.20055);
+- [Via Tagliabue (San Giorgio)](http://www.openstreetmap.org/?mlat=45.62014&mlon=9.21844#map=19/45.62014/9.21844).
 
 Le fotocamere saranno dotate di sistema di lettura OCR per la rilevazione sistematica delle targhe e incrocio con la cosiddetta black-list. 
 
