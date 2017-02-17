@@ -10,3 +10,4 @@
 ## Progetti
 
 - [BiciStazione](https://github.com/open-comune/conosci-desio/blob/master/data/bici-stazione.md)
+- [Progetto Sicurezza](https://github.com/open-comune/conosci-desio/blob/master/data/progetti/sicurezza.md)
