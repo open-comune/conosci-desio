@@ -31,3 +31,9 @@ Fonte: [articolo del Circolo di Desio del PD](http://www.pddesio.com/forno-ok-al
 ## 2016-11
 
 Esce una determina per invitare 5 università (i nomi non sono pubblici) a una manifestazione di interesse per realizzare lo studio.
+
+## 2017-02-23 Determinazione del dirigente
+
+> AFFIDAMENTO DELL’INCARICO PER LA REDAZIONE DELLO STUDIO EPIDEMIOLOGICO DEGLI EFFETTI SULLA SALUTE DEI SOGGETTI RESIDENTI NELL’AREA DI RICADUTA DEI FUMI DELL’INCENERITORE PER RIFIUTI SOLIDI URBANI UBICATO NEL COMUNE DI DESIO AL DOTT. PAOLO CROSIGNANI.
+
+[Fonte](http://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3080500?p_auth=HWPr3YMc)
