@@ -1,6 +1,6 @@
 # Studio epidemiologico inceneritore
 
-> documento in aggiornamento
+[Segui e partecipa allo sviluppo di questo argomento](https://github.com/open-comune/conosci-desio/issues/7)
 
 ## Cronologia
 
