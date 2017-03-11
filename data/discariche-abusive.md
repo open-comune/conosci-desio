@@ -10,6 +10,15 @@ Coordinate GPS: 45.630141, 9.194354
 
 [Fonte](https://www.facebook.com/groups/823777737638221/permalink/1719557478060238/)
 
+### 2017-02-13: Situazione (foto)
+
+![16587077_1348254495248055_5463002215962900069_o](https://cloud.githubusercontent.com/assets/21038/22905600/359fbcde-f241-11e6-93b0-622e1dab5cdd.jpg)
+![16587215_1348253641914807_8834523326212483546_o](https://cloud.githubusercontent.com/assets/21038/22905601/36121c20-f241-11e6-9952-ef2dbabd4364.jpg)
+![16601849_1348254435248061_3279367603058311445_o](https://cloud.githubusercontent.com/assets/21038/22905602/36144c84-f241-11e6-9495-56a730732b5e.jpg)
+![16602556_1348254591914712_2731868560925081359_o](https://cloud.githubusercontent.com/assets/21038/22905604/3618d81c-f241-11e6-846d-b8b83cae4e15.jpg)
+![16700678_1348256328581205_2497192315441157397_o](https://cloud.githubusercontent.com/assets/21038/22905603/36177d5a-f241-11e6-90e3-9965971a903a.jpg)
+![16722824_1348253635248141_6724297733973396250_o](https://cloud.githubusercontent.com/assets/21038/22905605/36192ac4-f241-11e6-917f-148c779b183d.jpg)
+
 ### 2017-02-14: Discussione Facebook sulla responsabilità in gioco
 
 Franzini Denis
@@ -40,3 +49,9 @@ L'amm. comunale ne è ampiamente a conoscenza.
 L'unità ambientale di Polizia Locale sta facendo indagini. L'ipotesi è che ci siano imprese che sversano sul territorio per non pagare il conferimento in piattaforma ecologica.
 
 Il nostro servizio ecologia è in attesa di un preventivo di intervento da parte di Gelsia. Purtroppo si tratta di rifiuti non assimilabili agli urbani, laterizi da lavori edili e RAAE e la loro rimozione non può essere considerata come prestazione ordinaria da parte di Gelsia. 
+
+### 2017-03-11: Situazione (foto)
+
+![17015957_1380921648648006_6519413653400358382_o](https://cloud.githubusercontent.com/assets/21038/23822224/075b605a-0649-11e7-9264-bbda243ca895.jpg)
+![17191867_1380956611977843_5259326119957392522_o](https://cloud.githubusercontent.com/assets/21038/23822225/0760417e-0649-11e7-9459-600000c651db.jpg)
+![17240689_1380952565311581_8217999863091798259_o](https://cloud.githubusercontent.com/assets/21038/23822226/07620efa-0649-11e7-84c0-af0eb43e0513.jpg)
