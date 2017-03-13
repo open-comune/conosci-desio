@@ -6,8 +6,8 @@
 
 ### 2017-03-22
 
-Quando: Mercoledì 22 Marzo 2017 Ore 20:30.
-Dove: Palazzo Comunale, Sala Blu.
+- Quando: Mercoledì 22 Marzo 2017 Ore 20:30.
+- Dove: Palazzo Comunale, Sala Blu.
 
 #### Ordine del Giorno
 
