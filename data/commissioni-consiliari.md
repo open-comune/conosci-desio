@@ -15,6 +15,7 @@
 
 - [Commissione Bilancio e Società Partecipate](/data/commissioni-consiliari/bilancio-e-societa-partecipate.md)
 - [Commissione Ambiente, Infrastrutture, Mobilità](/data/commissioni-consiliari/ambiente-infrastrutture-mobilita.md)
+- [Commissione Consiliare delle Politiche Sociali](/data/commissioni-consiliari/consiliare-politiche-sociali.md)
 
 ## Presidenze di Commissione
 
