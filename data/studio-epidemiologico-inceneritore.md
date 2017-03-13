@@ -4,19 +4,19 @@
 
 ## Cronologia
 
-## 2010
+### 2010
 
 Prima richiesta in consiglio comunale da Paolo di Carlo M5S votata a maggioranza.
 
-## 2015-10
+### 2015-10
 
 Seconda richiesta da Sara Montrasio.
 
-## 2016-02
+### 2016-02
 
 Richiesta di Sara Montrario di chiamare in commissione il Dott. Crosignani, epidemiologo, commissione in cui l'assessore Guidotti ha invitato anche il Sindaco di Madone e i rappresentanti dell'ats e di arpa. Esiste la registrazione audio della seduta.
 
-## 2016-05
+### 2016-05
 
 Delibera preelettorale in cui si dichiara di invitare gli altri comuni a un protocollo di intesa per realizzare lo studio e si impegnano 20.000€.
 
@@ -28,12 +28,20 @@ Fonte: [articolo del Circolo di Desio del PD](http://www.pddesio.com/forno-ok-al
 
 > Lo studio epidemiologico sugli effetti dei fumi del forno inceneritore di Desio sulla salute della popolazione circostante si farà.
 
-## 2016-11
+### 2016-11
 
 Esce una determina per invitare 5 università (i nomi non sono pubblici) a una manifestazione di interesse per realizzare lo studio.
 
-## 2017-02-23 Determinazione del dirigente
+### 2017-02-23 Determinazione del dirigente
 
 > AFFIDAMENTO DELL’INCARICO PER LA REDAZIONE DELLO STUDIO EPIDEMIOLOGICO DEGLI EFFETTI SULLA SALUTE DEI SOGGETTI RESIDENTI NELL’AREA DI RICADUTA DEI FUMI DELL’INCENERITORE PER RIFIUTI SOLIDI URBANI UBICATO NEL COMUNE DI DESIO AL DOTT. PAOLO CROSIGNANI.
 
 [Fonte](http://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3080500?p_auth=HWPr3YMc)
+
+## Pianificazione
+
+1. Dare l'incarico per avere finalmente la mappa di ricaduta dei fumi, necessaria per lo studio caso-controllo.
+2. Autorizzazione di ATS per accedere ai dati e alle cartelle cliniche dei residenti nell'area (i casi) e di quelli del gruppo controllo. La tempistica non dipende esclusivamente dalla volontà dell'amministrazione ma anche da quella dei diversi soggetti interessati.
+3. Elaborazione statistica che porterà ad un risultato nel giro di pochi mesi - sono i tempi tecnici di chi fa lo studio e su cui non si può fare più di tanto.
+
+[fonte](https://www.facebook.com/groups/823777737638221/permalink/1750768191605833/?comment_id=1751322671550385&reply_comment_id=1751501774865808&comment_tracking=%7B%22tn%22%3A%22R%22%7D)
