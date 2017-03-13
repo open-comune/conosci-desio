@@ -36,6 +36,8 @@ Esce una determina per invitare 5 università (i nomi non sono pubblici) a una m
 
 > AFFIDAMENTO DELL’INCARICO PER LA REDAZIONE DELLO STUDIO EPIDEMIOLOGICO DEGLI EFFETTI SULLA SALUTE DEI SOGGETTI RESIDENTI NELL’AREA DI RICADUTA DEI FUMI DELL’INCENERITORE PER RIFIUTI SOLIDI URBANI UBICATO NEL COMUNE DI DESIO AL DOTT. PAOLO CROSIGNANI.
 
+[CV Paolo Crosignani - allegato A.pdf](https://github.com/open-comune/conosci-desio/files/839734/allegato.A.pdf)
+
 [Fonte](http://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3080500?p_auth=HWPr3YMc)
 
 ## Pianificazione
