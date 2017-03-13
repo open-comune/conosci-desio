@@ -40,8 +40,8 @@ Esce una determina per invitare 5 università (i nomi non sono pubblici) a una m
 
 ## Pianificazione
 
-1. Dare l'incarico per avere finalmente la mappa di ricaduta dei fumi, necessaria per lo studio caso-controllo.
+1. (entro il 17 Marzo) Dare l'incarico per avere finalmente la mappa di ricaduta dei fumi, necessaria per lo studio caso-controllo.
 2. Autorizzazione di ATS per accedere ai dati e alle cartelle cliniche dei residenti nell'area (i casi) e di quelli del gruppo controllo. La tempistica non dipende esclusivamente dalla volontà dell'amministrazione ma anche da quella dei diversi soggetti interessati.
-3. Elaborazione statistica che porterà ad un risultato nel giro di pochi mesi - sono i tempi tecnici di chi fa lo studio e su cui non si può fare più di tanto.
+3. (durata 6-12 mesi) Elaborazione statistica che porterà ad un risultato nel giro di pochi mesi - sono i tempi tecnici di chi fa lo studio e su cui non si può fare più di tanto.
 
 [fonte](https://www.facebook.com/groups/823777737638221/permalink/1750768191605833/?comment_id=1751322671550385&reply_comment_id=1751501774865808&comment_tracking=%7B%22tn%22%3A%22R%22%7D)
