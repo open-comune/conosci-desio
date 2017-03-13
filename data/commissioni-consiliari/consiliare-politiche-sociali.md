@@ -2,13 +2,14 @@
 
 # Commissione delle Politiche Sociali, Casa, Famiglie e Lavoro
 
-## Cronologia
+## Convocazioni e Ordini del Giorno
 
-### 2017-03-22 Riunione (pianificata)
+### 2017-03-22
 
-Palazzo Comunale, Sala Blu.
+Quando: Mercoledì 22 Marzo 2017 Ore 20:30.
+Dove: Palazzo Comunale, Sala Blu.
 
-Ordine del Giorno:
+#### Ordine del Giorno
 
 - la riforma sanitaria lombarda e le ricadute sul territorio di Desio;
 - varie ed eventuali.
