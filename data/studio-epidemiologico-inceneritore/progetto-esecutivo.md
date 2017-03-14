@@ -1,6 +1,6 @@
 [Studio epidemiologico inceneritore](https://github.com/open-comune/conosci-desio/blob/master/data/studio-epidemiologico-inceneritore.md) / Progetto esecutivo (Allegato B)
 
-[Fonte](https://github.com/open-comune/conosci-desio/files/840836/1489393770781_allegato.B.pdf)
+[Fonte](https://github.com/open-comune/conosci-desio/files/840836/1489393770781_allegato.B.pdf) (Documento da ricopiare a partire dalla fonte)
 
 ```
 Allegato B
