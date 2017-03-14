@@ -38,6 +38,7 @@ Esce una determina per invitare 5 università (i nomi non sono pubblici) a una m
 
 - [DETERMINAZIONE N. 101 DEL 21/02/2017.pdf](https://github.com/open-comune/conosci-desio/files/839742/det_00101_21-02-2017.pdf)
 - [CV Paolo Crosignani - allegato A.pdf](https://github.com/open-comune/conosci-desio/files/839734/allegato.A.pdf)
+- [Analisi epidemiologica per la valutazione dei possibili effetti sanitari in relazione alle ricadute dell'inceneritore del comune di Desio - allegato B.pdf](https://github.com/open-comune/conosci-desio/files/840836/1489393770781_allegato.B.pdf)
 
 [Fonte](http://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3080500?p_auth=HWPr3YMc)
 
