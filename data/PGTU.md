@@ -40,6 +40,10 @@ Il Piano Generale del Traffico Urbano persegue i seguenti obiettivi di carattere
 - riduzione dell’incidentalità attraverso interventi puntuali sulla rete stradale;
 - riduzione della pressione del traffico mediante specifici interventi su itinerari da assoggettare a interventi di riqualificazione per quanto riguarda la geometria del tracciato, le politiche della sosta, l’appartenenza a isole ambientali, etc.
 
+## Mappe
+
+- [Itinerari mobilità dolce](https://github.com/open-comune/conosci-desio/blob/master/data/Tav.17_itineraridimobilitdolce_784_21112.pdf)
+
 ## Centro Studi PIM
 
 ### Contributi economici
