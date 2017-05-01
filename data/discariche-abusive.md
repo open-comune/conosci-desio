@@ -63,8 +63,8 @@ Il nostro servizio ecologia è in attesa di un preventivo di intervento da parte
 > > Il nostro servizio ecologia è in attesa di un preventivo di intervento da parte di Gelsia. Purtroppo si tratta di rifiuti non assimilabili agli urbani, laterizi da lavori edili e RAAE e la loro rimozione non può essere considerata come prestazione ordinaria da parte di Gelsia.
 >
 > 1. È poi arrivato tale preventivo?
-> 1.1 In caso affermativo si sa quanto costa e per quando sono stati pienificati gli interventi?
-> 1.2 In caso negativo si può avere una data certa entro la quale ottenere un aggiornamento su questo processo?
+> 2. In caso affermativo si sa quanto costa e per quando sono stati pienificati gli interventi?
+> 3. In caso negativo si può avere una data certa entro la quale ottenere un aggiornamento su questo processo?
 > 
-> [0] http://bit.ly/2n9DRTY
-> [1] http://bit.ly/2n9P7j8
+> - [0] http://bit.ly/2n9DRTY
+> - [1] http://bit.ly/2n9P7j8
