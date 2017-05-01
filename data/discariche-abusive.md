@@ -55,3 +55,16 @@ Il nostro servizio ecologia è in attesa di un preventivo di intervento da parte
 ![17015957_1380921648648006_6519413653400358382_o](https://cloud.githubusercontent.com/assets/21038/23822224/075b605a-0649-11e7-9264-bbda243ca895.jpg)
 ![17191867_1380956611977843_5259326119957392522_o](https://cloud.githubusercontent.com/assets/21038/23822225/0760417e-0649-11e7-9459-600000c651db.jpg)
 ![17240689_1380952565311581_8217999863091798259_o](https://cloud.githubusercontent.com/assets/21038/23822226/07620efa-0649-11e7-84c0-af0eb43e0513.jpg)
+
+### 2017-03-11: richiesta di aggiornamento all'URP (e-mail)
+
+> in merito al sito in oggetto e al vostro precedente riscontro del 2017-02-14 [0] e alla situazione corrente del sito [1]:
+>
+> > Il nostro servizio ecologia è in attesa di un preventivo di intervento da parte di Gelsia. Purtroppo si tratta di rifiuti non assimilabili agli urbani, laterizi da lavori edili e RAAE e la loro rimozione non può essere considerata come prestazione ordinaria da parte di Gelsia.
+>
+> 1. È poi arrivato tale preventivo?
+> 1.1 In caso affermativo si sa quanto costa e per quando sono stati pienificati gli interventi?
+> 1.2 In caso negativo si può avere una data certa entro la quale ottenere un aggiornamento su questo processo?
+> 
+> [0] http://bit.ly/2n9DRTY
+> [1] http://bit.ly/2n9P7j8
