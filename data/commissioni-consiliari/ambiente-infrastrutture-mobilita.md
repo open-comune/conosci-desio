@@ -29,6 +29,17 @@
 
 ## Convocazioni e Ordini del Giorno
  
+### 2017-05-30
+
+Martedì 30 Maggio 2017
+Ore 21:00
+
+#### Ordine del Giorno
+
+- Illustrazione della mappa ricaduta fumi del Forno Inceneritore.
+
+Sarà presente il Dott. Crosignani.
+
 ### 2016-11-21
 
 Lunedì 21 Novembre 2016
