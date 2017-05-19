@@ -2,6 +2,8 @@
 
 [Segui e partecipa allo sviluppo di questo argomento](https://github.com/open-comune/conosci-desio/issues/7)
 
+[Inceneritore](https://github.com/open-comune/conosci-desio/blob/master/data/inceneritore.md)
+
 ## Cronologia
 
 ### 2010
