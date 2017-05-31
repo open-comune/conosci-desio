@@ -1,5 +1,6 @@
 # Lista documenti
 
+- [Biblioteca](https://github.com/open-comune/conosci-desio/blob/master/data/biblioteca.md)
 - [Consiglio Comunale](https://github.com/open-comune/conosci-desio/blob/master/data/consiglio-comunale.md)
 - [Discariche abusive](https://github.com/open-comune/conosci-desio/blob/master/data/discariche-abusive.md)
 - [PGTU](https://github.com/open-comune/conosci-desio/blob/master/data/PGTU.md) (Piano Generale del Traffico Urbano)
