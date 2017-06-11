@@ -191,7 +191,7 @@ Il concessionario deve inoltre sottostare, pena la revoca, alle seguenti condizi
 Al calar del sole le segnalazioni di cui sopra devono essere illuminate con appositi fanali a luce rossa che dovranno rimanere accesi sino all’alba. È fatto obbligo dei fanali di segnalazione anche di giorno, in presenza di nebbia, foschia o scarsa visibilità.
 Fatta salva l’applicazione di altre disposizioni normative, chiunque viola le prescrizioni del presente articolo, è punito con la sanzione amministrativa del pagamento di una somma da € 50,00 a € 300,00.
 
-Dalla violazione consegue l’obbligo immediato del ripristino della situazione di legittimità, pena la revoca della concessione, permesso, autorizzazione etc., a norma del successivo art. 9.
+Dalla violazione consegue l’obbligo immediato del ripristino della situazione di legittimità, pena la revoca della concessione, permesso, autorizzazione etc., a norma del successivo [art. 9](#art-9-modalità-per-il-carico-e-lo-scarico-delle-merci).
 
 ### Art. 7: Revoca delle concessioni
 
