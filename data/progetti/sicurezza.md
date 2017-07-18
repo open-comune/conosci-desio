@@ -36,6 +36,14 @@ Abbiamo quindi chiesto il finanziamento di circa **€ 50.000** per:
 
 ## Cronologia
 
-### 2017-02-17: Post Facebook
+### 2016-02-17: Post Facebook
 
 [Fonte](https://www.facebook.com/jennifer.moro.50/posts/815051095284384)
+
+### 2016-04-21: Articolo Seregno TV
+
+>  L’amministrazione comunale di Desio ha ottenuto il finanziamento di Regione Lombardia sul bando “Desio città sicura”. Il finanziamento è articolato in due lotti:  il lotto A prevede un investimento totale di 79.934,40 sulla realizzazione di sistemi di videosorveglianza che prevedono l’istallazione di telecamere per monitorare 5 varchi di accesso alla città. Le telecamere saranno in grado di rilevare tutte le targhe in ingresso e verificare automaticamente il controllo rispetto alla copertura assicurativa e alle denunce di furto.
+
+> Il lotto B prevede un investimento totale di 42.737,35 che consentirà  di acquistare una autovettura nuova in sostituzione di una vecchia, apparati portatili di lettura e controllo targhe e scanner per completare il gabinetto di fotosegnalamento.
+
+[Fonte](http://www.seregno.tv/regione-finanzia-il-progetto-desio-citta-sicura/)
