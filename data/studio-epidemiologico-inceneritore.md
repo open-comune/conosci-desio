@@ -52,7 +52,7 @@ Esce una determina per invitare 5 università (i nomi non sono pubblici) a una m
 
 [link](https://www.facebook.com/groups/823777737638221/permalink/1750768191605833/?comment_id=1751322671550385&reply_comment_id=1751501774865808&comment_tracking=%7B%22tn%22%3A%22R%22%7D)
 
-## Pianificazione
+#### Pianificazione
 
 1. (entro il 17 Marzo) Dare l'incarico per avere finalmente la mappa di ricaduta dei fumi, necessaria per lo studio caso-controllo.
 2. Autorizzazione di ATS per accedere ai dati e alle cartelle cliniche dei residenti nell'area (i casi) e di quelli del gruppo controllo. La tempistica non dipende esclusivamente dalla volontà dell'amministrazione ma anche da quella dei diversi soggetti interessati.
@@ -60,3 +60,12 @@ Esce una determina per invitare 5 università (i nomi non sono pubblici) a una m
 
 [fonte](https://www.facebook.com/groups/823777737638221/permalink/1750768191605833/?comment_id=1751322671550385&reply_comment_id=1751501774865808&comment_tracking=%7B%22tn%22%3A%22R%22%7D)
 
+### 2017-11-26 Dichiarazione dell'ass. Guidotti
+
+> "Il direttore generale – spiega l’assessore Stefano Bruno Guidotti – mi aveva anticipato, tramite i suoi collaboratori, la disponibilità dell'Ats nella riunione dello scorso 11 ottobre. Sulla vicenda dello studio epidemiologico l’Agenzia di tutela della salute è, per legge, il mio interlocutore "obbligato" e il mio dovere di amministratore comunale è di lavorare insieme all'agenzia affinché tutti i cittadini, abbiano a disposizione uno studio approfondito e dettagliato. La lettera è la conferma che la strada intrapresa è giusta: su ambiente e salute dei cittadini abbiamo lavorato ogni giorno con serietà, senza polemiche o proclami, senza post e foto, o fotomontaggi, su Facebook". 
+
+[Fonte](https://quibrianzanews.com/studio-epidemiologico-guidotti-lo-fara-lats-brianza/)
+
+### 2018-02-15 Discussione della soluzione di ATS in commissione Ambiente, Infrastrutture e Mobilità
+
+[Convocazione 📝](https://github.com/open-comune/conosci-desio/files/1708017/convocazione.commissione.pdf)
