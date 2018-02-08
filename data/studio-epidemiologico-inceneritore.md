@@ -46,6 +46,12 @@ Esce una determina per invitare 5 università (i nomi non sono pubblici) a una m
 
 [Fonte](http://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3080500?p_auth=HWPr3YMc)
 
+### 2017-03-13 Commento di Marco Beretta
+
+<img src="https://user-images.githubusercontent.com/21038/35986440-54945a7c-0cf9-11e8-92a8-991c90afbd1b.png" width="400" />
+
+[link](https://www.facebook.com/groups/823777737638221/permalink/1750768191605833/?comment_id=1751322671550385&reply_comment_id=1751501774865808&comment_tracking=%7B%22tn%22%3A%22R%22%7D)
+
 ## Pianificazione
 
 1. (entro il 17 Marzo) Dare l'incarico per avere finalmente la mappa di ricaduta dei fumi, necessaria per lo studio caso-controllo.
@@ -53,3 +59,4 @@ Esce una determina per invitare 5 università (i nomi non sono pubblici) a una m
 3. (durata 6-12 mesi) Elaborazione statistica che porterà ad un risultato nel giro di pochi mesi - sono i tempi tecnici di chi fa lo studio e su cui non si può fare più di tanto.
 
 [fonte](https://www.facebook.com/groups/823777737638221/permalink/1750768191605833/?comment_id=1751322671550385&reply_comment_id=1751501774865808&comment_tracking=%7B%22tn%22%3A%22R%22%7D)
+
