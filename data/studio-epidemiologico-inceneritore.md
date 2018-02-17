@@ -69,3 +69,5 @@ Esce una determina per invitare 5 università (i nomi non sono pubblici) a una m
 ### 2018-02-15 Discussione della soluzione di ATS in commissione Ambiente, Infrastrutture e Mobilità
 
 [Convocazione 📝](https://github.com/open-comune/conosci-desio/files/1708017/convocazione.commissione.pdf)
+
+[Articolo "Il Costo della Chiarezza"](https://github.com/open-comune/conosci-desio/files/1733546/Il.costo.della.chiarezza.olistik.Medium.pdf)
