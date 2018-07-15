@@ -61,3 +61,5 @@ Roberto Corti
 [Fonte](http://comune.desio.mb.it/servizi/menu/dinamica.aspx?idArea=8882&idCat=16560&ID=16560&TipoElemento=categoria)
 
 [Commissioni Consiliari](/data/commissioni-consiliari.md)
+
+[Regolamento del Consiglio Comunale](/data/regolamento-consiglio-comunale.md)
