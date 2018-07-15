@@ -16,11 +16,11 @@
 - [Commissione Ambiente, Infrastrutture, Mobilità](/data/commissioni-consiliari/ambiente-infrastrutture-mobilita.md)
 - [Commissione Bilancio e Società Partecipate](/data/commissioni-consiliari/bilancio-e-societa-partecipate.md)
 - [Commissione Consiliare delle Politiche Sociali, Casa, Famiglia e Lavoro](/data/commissioni-consiliari/consiliare-politiche-sociali.md)
+- [Commissione Statuto, Regolamenti e Affari Istituzionali](/data/commissioni-consiliari/statuto-regolamenti-affari-istituzionali.md)
 - TBD [Commissione Elettorale Comunale](/data/commissioni-consiliari/commissione-elettorale-comunale.md)
 - TBD [Commissione per la formazione e aggiornamento degli Albi dei Giudici Popolari](/data/commissioni-consiliari/commissione-albi-giudici.md)
 - TBD [Commissione Politiche Sociali, Casa, Famiglia e Lavoro](/data/commissioni-consiliari/politiche-sociali-casa-famiglia-lavoro.md)
 - TBD [Commissione Pubblica Istruzione, Cultura e Sport](/data/commissioni-consiliari/pubblica-istruzione-cultura-sport.md)
-- TBD [Commissione Statuto, Regolamenti e Affari Istituzionali](/data/commissioni-consiliari/statuto-regolamenti-affari-istituzionali.md)
 - TBD [Commissione Urbanistica, Lavori Pubblici, Edilizia Privata e Toponomastica](/data/commissioni-consiliari/urbanistica-lavori-pubblici-edilizia-privata-toponomastica.md)
 
 ## Presidenze di Commissione
