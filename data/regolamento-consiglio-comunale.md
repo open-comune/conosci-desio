@@ -1070,32 +1070,25 @@ diversamente
 nel numero necessario per rendere legale l’adunanza e, nei casi previsti dalla Legge, dallo
 Statuto e dal presente Regolamento, per la legittimità della votazione
 5. Su ogni argomento l’ordine della votazione è stabilito come segue:
-  1. la votazione sulle questioni pregiudiziali e sulle questioni sospensive, si effettua prima di
-iniziare la trattazione del relativo argomento;
+  
+  1. la votazione sulle questioni pregiudiziali e sulle questioni sospensive, si effettua prima di iniziare la trattazione del relativo argomento;
   2. le proposte di emendamento si votano nell’ordine di cui appresso:
     * emendamenti soppressivi;
     * emendamenti modificativi;
     * emendamenti aggiuntivi;
-  3. i provvedimenti, per i quali sono stati approvati emendamenti o modifiche, vengono
-conclusivamente votati nel testo definitivo, risultante dallo schema originario modificato in
-conformità a quanto in precedenza deciso
-  4. per ciascun emendamento sono concessi 5 minuti per la presentazione e 10 minuti per la
-discussione, comprensiva di dichiarazione di voto
+  3. i provvedimenti, per i quali sono stati approvati emendamenti o modifiche, vengono conclusivamente votati nel testo definitivo, risultante dallo schema originario modificato in conformità a quanto in precedenza deciso
+  4. per ciascun emendamento sono concessi 5 minuti per la presentazione e 10 minuti per la discussione, comprensiva di dichiarazione di voto
+
 6. Ogni proposta di deliberazione comporta distinta votazione: quando per gli schemi dei
 provvedimenti proposti non vengono approvate proposte di modifica o non vi è discussione,
 la votazione si intende avvenuta sul testo originario proposto e depositato
 7. Per i regolamenti ed i bilanci, le votazioni avvengono con le seguenti modalità:
-  1. per i regolamenti, il Presidente invita i Consiglieri a far conoscere su quali articoli essi
-presentano proposte, per iscritto, di modifica e/o soppressione: discusse e votate tali
-proposte, il testo definitivo del Regolamento viene posto in votazione nel suo complesso, in
-forma palese;
-  2. per i bilanci, avvenuta la discussione generale, si effettuano le votazioni a termine del
-Regolamento di Contabilità;
-  3. per l’adozione o approvazione del Piano di Governo del Territorio o sua Variante si
-procederà con unica votazione o, in alternativa, secondo le modalità definite dalla
-conferenza dei Capigruppo
-8. Quando è iniziata la votazione, non è più consentito ad alcuno di effettuare interventi, fino
-alla proclamazione dei risultati
+
+1. per i regolamenti, il Presidente invita i Consiglieri a far conoscere su quali articoli essi presentano proposte, per iscritto, di modifica e/o soppressione: discusse e votate tali proposte, il testo definitivo del Regolamento viene posto in votazione nel suo complesso, in forma palese;
+    2. per i bilanci, avvenuta la discussione generale, si effettuano le votazioni a termine del Regolamento di Contabilità;
+    3. per l’adozione o approvazione del Piano di Governo del Territorio o sua Variante si procederà con unica votazione o, in alternativa, secondo le modalità definite dalla conferenza dei Capigruppo
+
+8. Quando è iniziata la votazione, non è più consentito ad alcuno di effettuare interventi, fino alla proclamazione dei risultati
 
 #### ART. 60 Votazione in forma palese
 
