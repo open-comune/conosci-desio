@@ -2,7 +2,7 @@
 
 # Commissioni Consiliari
 
-[Regolamento delle Commissioni Consiliari](/data/commissioni-consiliari/regolamentoCommissioniConsiliariDesio-approvatodeliberacc34-2016_163_272.pdf) ([fonte](http://www.comune.desio.mb.it/upload/desio/regolamenti/regolamentoCommissioniConsiliariDesio-approvatodeliberacc34-2016_163_272.pdf))
+[Regolamento delle Commissioni Consiliari](/data/Regolamento%20delle%20Commissioni%20Consiliari.pdf) ([fonte](http://www.comune.desio.mb.it/upload/desio/regolamenti/regolamentoCommissioniConsiliariDesio-approvatodeliberacc34-2016_163_272.pdf))
 
 [Fonte](https://www.comune.desio.mb.it/servizi/menu/dinamica.aspx?idArea=8882&idCat=16560&ID=46393&TipoElemento=Categoria)
 
